@@ -139,12 +139,8 @@ O projeto emprega Multi-Armed Bandit utilizando Amostragem de Thompson para sele
 Ao final da otimização é produzido um mapa de calor contendo a posição dos blocos, a distribuição de temperatura e as regiões de maior aquecimento do chip.
 </p>
 
----
-
-# 10. Resultado Final
-
 <p align="justify">
-Mapa de calor para o chip otimizado. T_max: 56.8°C | T_min: 25.0°C
+T_max: 56.8°C | T_min: 25.0°C
 </p>
 
 <br>
@@ -157,7 +153,7 @@ Mapa de calor para o chip otimizado. T_max: 56.8°C | T_min: 25.0°C
 
 ---
 
-# 11. Principais Características
+# 10. Principais Características
 
 <p align="justify">
 
@@ -172,7 +168,7 @@ Mapa de calor para o chip otimizado. T_max: 56.8°C | T_min: 25.0°C
 
 ---
 
-# 12. Aplicações
+# 11. Aplicações
 
 <p align="justify">
 
@@ -188,7 +184,7 @@ Mapa de calor para o chip otimizado. T_max: 56.8°C | T_min: 25.0°C
 
 ---
 
-# 13. Conclusão
+# 12. Conclusão
 
 <p align="justify">
 Este projeto demonstra como técnicas de otimização e aprendizado podem ser combinadas para resolver problemas de posicionamento térmico em chips. Enquanto o Recozimento Simulado realiza uma busca eficiente no espaço de soluções, o Multi-Armed Bandit adapta continuamente a escolha das estratégias de movimentação com base no desempenho observado durante as simulações.
