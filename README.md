@@ -144,7 +144,7 @@ Ao final da otimização é produzido um mapa de calor contendo a posição dos 
 # 10. Resultado Final
 
 <p align="justify">
-Mapa de calor para o chip otimizado. 
+Mapa de calor para o chip otimizado. T_max: 53.5°C | T_min: 29.0°C
 </p>
 
 <br>
