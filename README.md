@@ -144,14 +144,14 @@ Ao final da otimização é produzido um mapa de calor contendo a posição dos 
 # 10. Resultado Final
 
 <p align="justify">
-A imagem abaixo deverá ser substituída pelo resultado final obtido durante a execução do projeto.
+Mapa de calor para o chip otimizado. 
 </p>
 
 <br>
 
 <p align="center">
 
-![Resultado Final](images/chip_final.png)
+![Resultado Final](fig1.png)
 
 </p>
 
